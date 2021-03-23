@@ -1,0 +1,9 @@
+                            file_name,  library_name, group_name
+Reads/idx9_GATCAG_L001_R?_001.fastq.gz,       A250,   L1x9
+Reads/idx9_GATCAG_L002_R?_001.fastq.gz,       A250,   L2x9
+Reads/idx25_ACTGAT_L001_R?_001.fastq.gz,      A800,   L1x25
+Reads/idx25_ACTGAT_L002_R?_001.fastq.gz,      A800,   L2x25
+Reads/MP3k_s_1_?_sequence.qf.clnq2.fq.paired_only.10M.fq,   M3k,  MP3ks1cl2_10M
+Reads/MP5k_s_2_?_sequence.qf.clnq2.fq.paired_only.10M.fq,   M5k,  MP5ks2cl2_10M
+Reads/MP8k_s_1_?_sequence.qf.clnq2.fq.paired_only.10M.fq,   M8k,  MP8ks1cl2_10M
+Reads/MP10k_s_2_?_sequence.qf.clnq2.fq.paired_only.10M.fq, M10k,  MP10ks2cl2_10M

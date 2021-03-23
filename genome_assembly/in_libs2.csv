@@ -1,0 +1,7 @@
+library_name, project_name, organism_name,     type, paired, frag_size, frag_stddev, insert_size, insert_stddev, read_orientation, genomic_start, genomic_end
+A250,         Rs2,          Rspe,        fragment,      1,       250,          25,            ,              ,           inward,             0,           0
+A800,         Rs2,          Rspe,         jumping,      1,          ,            ,         800,            80,           inward,             0,           0
+M3k,          Rs2,          Rspe,         jumping,      1,          ,            ,        3000,          1000,          outward,             0,           0
+M5k,          Rs2,          Rspe,         jumping,      1,          ,            ,        5000,          1500,          outward,             0,           0
+M8k,          Rs2,          Rspe,         jumping,      1,          ,            ,        8000,          2400,          outward,             0,           0
+M10k,         Rs2,          Rspe,         jumping,      1,          ,            ,       10000,          3000,          outward,             0,           0
