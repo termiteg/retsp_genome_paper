@@ -1,0 +1,14 @@
+# BUSCO version is: 4.0.6 
+# The lineage dataset is: insecta_odb10 (Creation date: 2019-11-20, number of species: 75, number of BUSCOs: 1367)
+# Summarized benchmarking in BUSCO notation for file References/final.assembly.fasta
+# BUSCO was run in mode: genome
+
+	***** Results: *****
+
+	C:98.5%[S:98.1%,D:0.4%],F:0.7%,M:0.8%,n:1367	   
+	1346	Complete BUSCOs (C)			   
+	1341	Complete and single-copy BUSCOs (S)	   
+	5	Complete and duplicated BUSCOs (D)	   
+	9	Fragmented BUSCOs (F)			   
+	12	Missing BUSCOs (M)			   
+	1367	Total BUSCO groups searched		   
